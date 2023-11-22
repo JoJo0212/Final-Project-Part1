@@ -40,6 +40,6 @@ The overarching goal of this project is to illuminate the profound impact of mea
 ## Data & Resources:
 1. **Introduction:**
    - US Department of Agriculture. (February 22, 2023). Per capita meat consumption in the United States in 2022 and 2031, by type (in pounds) [Graph]. In Statista. Retrieved November 21, 2023, from https://www.statista.com/statistics/189222/average-meat-consumption-in-the-us-by-sort/
-   - <img src="Picture1.png" width="2000"/>
+   - <img src="Picture1.png" width="1000"/>
 
 
