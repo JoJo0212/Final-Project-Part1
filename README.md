@@ -11,7 +11,7 @@ The overarching goal of this project is to illuminate the profound impact of mea
 
 2. **Global Meat Production Overview:**
    - Providing context for the scale of meat production globally.
-   - Data prepared to use: Historical data on global meat production trends, regional breakdown of meat production statistics.
+   - Data prepared to use: Historical data on global meat production, regional breakdown of meat production.
 
 3. **Global Meat Consumption Patterns:**
    - Exploring variations in dietary habits and their implications.
@@ -38,8 +38,16 @@ The overarching goal of this project is to illuminate the profound impact of mea
    - Share some strategies that NGO or some non-profit group has provided
 
 ## Data & Resources:
+As there is limited of time, this is only a draft of my data visulization (mostly utilizing excel or python)
 1. **Introduction:**
-   - US Department of Agriculture. (February 22, 2023). Per capita meat consumption in the United States in 2022 and 2031, by type (in pounds) [Graph]. In Statista. Retrieved November 21, 2023, from https://www.statista.com/statistics/189222/average-meat-consumption-in-the-us-by-sort/
+   - US Department of Agriculture. (February 22, 2023). Per capita meat consumption in the United States in 2022 and 2031, by type (in pounds) [Graph]. In Statista. Retrieved November 21, 2023, from [https://www.statista.com/statistics/189222/average-meat-consumption-in-the-us-by-sort/](https://www.statista.com/statistics/189222/average-meat-consumption-in-the-us-by-sort/)
    - <img src="Picture1.png" width="1000"/>
 
+2. **Global Meat Production Overview:**
+   - OECD, & FAO. (June 7, 2023). Production of meat worldwide from 2016 to 2023 (in million metric tons) [Graph]. In Statista. Retrieved November 21, 2023, from [https://www.statista.com/statistics/237644/global-meat-production-since-1990/](https://www.statista.com/statistics/237644/global-meat-production-since-1990/)
+   - [https://ourworldindata.org/meat-production#:~:text=Global%20demand%20for%20meat%20is,agricultural%20land%20and%20freshwater%20use](https://ourworldindata.org/meat-production#:~:text=Global%20demand%20for%20meat%20is,agricultural%20land%20and%20freshwater%20use).
+   - <img src="Picture2.png" width="1000"/>
+
+3. **Global Meat Consumption Patterns:**
+   - Exploring variations`
 
