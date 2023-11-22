@@ -37,8 +37,8 @@ The overarching goal of this project is to illuminate the profound impact of mea
    - Reiterating the importance of raising awareness and making sustainable choices in the context of meat consumption.
    - Share some strategies that NGO or some non-profit group has provided
 
-## Data & Resources:
-As there is limited of time, this is only a draft of my data visulization (mostly utilizing excel or python)
+## Data/Resources and Sketches:
+As there is limited of time, these are only a very easy draft of my data visulization
 1. **Introduction:**
    - US Department of Agriculture. (February 22, 2023). Per capita meat consumption in the United States in 2022 and 2031, by type (in pounds) [Graph]. In Statista. Retrieved November 21, 2023, from [https://www.statista.com/statistics/189222/average-meat-consumption-in-the-us-by-sort/](https://www.statista.com/statistics/189222/average-meat-consumption-in-the-us-by-sort/)
    - <img src="Picture1.png" width="1000"/>
@@ -49,5 +49,26 @@ As there is limited of time, this is only a draft of my data visulization (mostl
    - <img src="Picture2.png" width="1000"/>
 
 3. **Global Meat Consumption Patterns:**
-   - Exploring variations`
+   - OECD. (July 30, 2022). Meat consumption worldwide from 1990 to 2021, by meat type* (in million tons) [Graph]. In Statista. Retrieved November 22, 2023, from [https://www.statista.com/statistics/274522/global-per-capita-consumption-of-meat/](https://www.statista.com/statistics/274522/global-per-capita-consumption-of-meat/)
+   - <img src="Picture3.png" width="1000"/>
+   - FAO. (January 5, 2023). Production of meat worldwide in 2021, by region (in million metric tons) [Graph]. In Statista. Retrieved November 22, 2023, from [https://www.statista.com/statistics/237547/net-production-of-meat-worldwide-since-1990-by-production-region/](https://www.statista.com/statistics/237547/net-production-of-meat-worldwide-since-1990-by-production-region/)
+   - <img src="Picture4.png" width="1000"/>
+
+4. **Environmental Impact of Meat Consumption:**
+   - [https://onpasture.com/2020/02/17/how-many-acres-per-cow-do-you-need/#:~:text=With%20a%20good%20system%20at,you%20will%20need%20more%20acres.] (https://onpasture.com/2020/02/17/how-many-acres-per-cow-do-you-need/#:~:text=With%20a%20good%20system%20at,you%20will%20need%20more%20acres.)
+   - Plan to draw a graph with canva with a cow and the amount of land/grass they need
+  
+5. **Carbon Footprint of Meat Production:**
+   - [https://ourworldindata.org/food-choice-vs-eating-local](https://ourworldindata.org/food-choice-vs-eating-local)
+   - (There is a data visulization in this website, and I'm still trying to get the actual data from the website)
+   - [https://www.dw.com/en/fact-check-is-eating-meat-bad-for-the-environment/a-63595148#:~:text=According%20to%20FAO%20data%2C%2014.5,CO2%20in%20driving%20global%20warming.] (https://www.dw.com/en/fact-check-is-eating-meat-bad-for-the-environment/a-63595148#:~:text=According%20to%20FAO%20data%2C%2014.5,CO2%20in%20driving%20global%20warming.)
+   - [https://ourworldindata.org/environmental-impacts-of-food](https://ourworldindata.org/environmental-impacts-of-food)
+   - <img src="Picture5.png" width="1000"/>
+
+6. **Illustrating Changes in Carbon Dioxide Levels:**
+   - [https://www.statista.com/statistics/1091926/atmospheric-concentration-of-co2-historic/](https://www.statista.com/statistics/1091926/atmospheric-concentration-of-co2-historic/)
+   - <img src="Picture6.png" width="1000"/>
+
+## Method and medium
+I planned to done my final presentation by canva as I'm familar of how to use it. But I will still explore Shorthand and see at the end if it's more sutible for my project.
 
